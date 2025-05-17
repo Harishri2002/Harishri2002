@@ -73,6 +73,6 @@ Here’s what I bring to the table:
 - 🌐 Website: [harishribr.vercel.app](https://harishribr.vercel.app/)  
 
 ---
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Harishri2002)
 ## ⚡ Fun Fact  
 "I believe innovation starts where creativity meets code!" 🌟  
