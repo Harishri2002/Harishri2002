@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a **Full-Stack Developer** and a **UI/UX Enthusiast** 
 ---
 
 ## 🌟 About Me  
-- 👀 **Interests:** Web Development, App Development, and Designing  
+- 👀 **Interests:** Web Development, App Development, and System Designing  
 - 🌱 **Currently Learning:** Flutter to craft seamless cross-platform apps  
 - 🎨 **Fun Fact:** "Creativity is at the heart of everything I do!" 😊  
 
